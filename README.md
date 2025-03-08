@@ -1,5 +1,5 @@
 # Wildlife-and-Habitat-Monitoring
-This project leverages big data and machine learning to analyze species distribution and assess habitat suitability, contributing to Sustainable Development Goal 15 (SDG 15: Life on Land). Using Apache Spark and PySpark MLlib, the project processes large-scale biodiversity data from the Global Biodiversity Information Facility (GBIF). K-means clustering is applied to group species based on geographic proximity, while a Decision Tree model predicts habitat suitability. The results are visualized using Tableau, providing actionable insights for conservation efforts.
+This project leverages big data and machine learning to analyze species distribution and assess habitat suitability, contributing to Sustainable Development Goal 15 (SDG 15: Life on Land). Using Apache Spark and PySpark MLlib, the project processes large-scale biodiversity data from the Global Biodiversity Information Facility (GBIF). K-means clustering is applied to group species based on geographic proximity, while a Decision Tree model predicts habitat suitability. The results are visualized using Tableau. The results provide actionable insights for people working for the conservation of wildlife.
 
 
 # Features
